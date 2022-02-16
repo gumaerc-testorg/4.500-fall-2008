@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Instruction for a project to design a writer's cabin.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-500-introduction-to-design-computing-fall-2008/aa0f294617524b3ad46cb70baf66f5a6_final_project.pdf
+file: /media/courses/4-500-introduction-to-design-computing-fall-2008/aa0f294617524b3ad46cb70baf66f5a6_final_project.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: A Proposal for a Writers Cabin
 uid: aa0f2946-1752-4b3a-d46c-b70baf66f5a6

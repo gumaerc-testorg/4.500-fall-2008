@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Assignment to design a plywood windscreen for a house.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-500-introduction-to-design-computing-fall-2008/70a7c27aaec8a6a8825f22f337de3a6f_assn8.pdf
+file: /media/courses/4-500-introduction-to-design-computing-fall-2008/70a7c27aaec8a6a8825f22f337de3a6f_assn8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Designing Rain a Screen
 uid: 70a7c27a-aec8-a6a8-825f-22f337de3a6f

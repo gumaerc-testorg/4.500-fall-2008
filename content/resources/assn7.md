@@ -5,8 +5,13 @@ description: "Assignment on digital fabrication: design model. This assignment i
   \ using \r\nrapid prototyping devices. Your job will be to build a physical model\
   \ of an area of your dorm room using rapid prototyping technologies in this case\
   \ the laser cutter and 3D printing."
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-500-introduction-to-design-computing-fall-2008/e3caec05524c15b5cf459aeadc3982ec_assn7.pdf
+file: /media/courses/4-500-introduction-to-design-computing-fall-2008/e3caec05524c15b5cf459aeadc3982ec_assn7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Digital Fabrication - Design Model
 uid: e3caec05-524c-15b5-cf45-9aeadc3982ec

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Example of student work on a design proposal for the course project.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-500-introduction-to-design-computing-fall-2008/34785a98cdd3007931f0a7ca13287172_assn1_8.pdf
+file: /media/courses/4-500-introduction-to-design-computing-fall-2008/34785a98cdd3007931f0a7ca13287172_assn1_8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: Concord River Cabin
 uid: 34785a98-cdd3-0079-31f0-a7ca13287172
