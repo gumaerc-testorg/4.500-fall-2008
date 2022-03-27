@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 83a790a5-980f-c1b0-a4e4-7b099846f294
 resourcetype: Document
 title: Solid Modeling
 uid: 54a61c84-ec2d-2e81-0a0f-87257e4445a1

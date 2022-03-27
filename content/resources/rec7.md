@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: e5202a82-fbf4-ce3a-3023-83605aa603c1
 resourcetype: Document
 title: Laser Cutting-Model Process
 uid: 37fefad1-a6c2-3e41-4d27-d05796508053

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 763ee635-d85e-0fed-5134-5eea3b61c05a
 resourcetype: Document
 title: a concord cabin getaway
 uid: c902e6d9-9049-d5ca-12ff-86ede815ca30

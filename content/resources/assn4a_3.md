@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 763ee635-d85e-0fed-5134-5eea3b61c05a
 resourcetype: Document
 title: A Concord River Cabin
 uid: 52fa4cfa-d751-c5b3-349f-0dfc0217b92a

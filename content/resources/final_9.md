@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 763ee635-d85e-0fed-5134-5eea3b61c05a
 resourcetype: Document
 title: CAD/CAM in the Design Proces
 uid: 3f1b035e-2905-5e1d-0448-df5867469c92

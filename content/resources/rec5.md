@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: e5202a82-fbf4-ce3a-3023-83605aa603c1
 resourcetype: Document
 title: 3D Printing
 uid: 07861d74-7c20-c745-b00c-5bd72d21fae0

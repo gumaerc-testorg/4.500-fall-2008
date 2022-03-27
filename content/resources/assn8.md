@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9dc782f7-8a17-ea8b-d7bc-9f6e6c8f0743
 resourcetype: Document
 title: Designing Rain a Screen
 uid: 70a7c27a-aec8-a6a8-825f-22f337de3a6f

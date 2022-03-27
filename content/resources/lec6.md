@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 83a790a5-980f-c1b0-a4e4-7b099846f294
 resourcetype: Document
 title: Digital Fabrication
 uid: ea92dccf-9f07-4a72-35a3-f6c1340a4450

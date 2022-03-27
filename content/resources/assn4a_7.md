@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 763ee635-d85e-0fed-5134-5eea3b61c05a
 resourcetype: Document
 title: Writer's Cabin in Concord River
 uid: c6d5a6ad-e72f-1818-1de7-c6e06a73542f

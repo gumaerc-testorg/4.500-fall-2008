@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: e5202a82-fbf4-ce3a-3023-83605aa603c1
 resourcetype: Document
 title: Introduction to Computer Modeling (A)
 uid: e6b9f6fb-eadc-777b-0a95-7610af128f35

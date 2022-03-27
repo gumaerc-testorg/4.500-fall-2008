@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: e5202a82-fbf4-ce3a-3023-83605aa603c1
 resourcetype: Document
 title: CNC Routing
 uid: 0928f80a-8622-9fba-03a8-bc364dc7c3ff

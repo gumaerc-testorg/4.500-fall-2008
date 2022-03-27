@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9dc782f7-8a17-ea8b-d7bc-9f6e6c8f0743
 resourcetype: Document
 title: Digital Fabrication - Design Model
 uid: e3caec05-524c-15b5-cf45-9aeadc3982ec

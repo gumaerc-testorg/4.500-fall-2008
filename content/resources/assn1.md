@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9dc782f7-8a17-ea8b-d7bc-9f6e6c8f0743
 resourcetype: Document
 title: Designing a Cabin
 uid: c77226cd-9f47-b902-c3e7-68ac2f5b0d23
