@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation notes on 3D printing.
-file: /media/courses/4-500-introduction-to-design-computing-fall-2008/07861d747c20c745b00c5bd72d21fae0_rec5.pdf
+file: /courses/4-500-introduction-to-design-computing-fall-2008/07861d747c20c745b00c5bd72d21fae0_rec5.pdf
 file_type: application/pdf
 learning_resource_types:
 - Recitations
@@ -13,3 +13,5 @@ resourcetype: Document
 title: 3D Printing
 uid: 07861d74-7c20-c745-b00c-5bd72d21fae0
 ---
+Recitation notes on 3D printing.
+
