@@ -5,6 +5,7 @@ file: /courses/4-500-introduction-to-design-computing-fall-2008/7b15129460303d6e
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Riverside Cabin
 uid: 7b151294-6030-3d6e-51de-d2eaf7453992
 ---
 Example of student work for the mid-semester design presentation.
-

@@ -5,6 +5,7 @@ file: /courses/4-500-introduction-to-design-computing-fall-2008/39dfc669c15c5fb9
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Construction Modeling
 uid: 39dfc669-c15c-5fb9-9e4d-2a82dc3c14f4
 ---
 Assignment on construction modeling.
-

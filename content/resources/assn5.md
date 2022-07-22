@@ -5,6 +5,7 @@ file: /courses/4-500-introduction-to-design-computing-fall-2008/1284a316420fb21d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 3D Printing
 uid: 1284a316-420f-b21d-b191-242126ac2681
 ---
 Assignment on design modeling and fabrication with 3D printing.
-

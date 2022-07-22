@@ -5,6 +5,7 @@ file: /courses/4-500-introduction-to-design-computing-fall-2008/f7084b5be6aa20ec
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Designing a Cabin
 uid: f7084b5b-e6aa-20ec-58e3-69d83beb8497
 ---
 Example of student work on a design proposal for the course project.
-

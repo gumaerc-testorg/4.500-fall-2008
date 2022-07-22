@@ -5,6 +5,7 @@ file: /courses/4-500-introduction-to-design-computing-fall-2008/868b7e2b1d497fd6
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: A Modern Cottage
 uid: 868b7e2b-1d49-7fd6-2366-20b244dd23fd
 ---
 Example of student work for the mid-semester design presentation.
-

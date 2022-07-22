@@ -5,6 +5,7 @@ file: /courses/4-500-introduction-to-design-computing-fall-2008/5fc7a17450918b73
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Writer's Cabin on the Concord River
 uid: 5fc7a174-5091-8b73-1a50-715aee50674a
 ---
 Example of student work on a design proposal for the course project.
-

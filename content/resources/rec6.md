@@ -5,6 +5,7 @@ file: /courses/4-500-introduction-to-design-computing-fall-2008/ee7bb059fb7a19cb
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Laser Cutter
 uid: ee7bb059-fb7a-19cb-97eb-63c51eb1725c
 ---
 Recitation notes with instructions on laser cutting.
-

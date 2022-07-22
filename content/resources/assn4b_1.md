@@ -5,6 +5,7 @@ file: /courses/4-500-introduction-to-design-computing-fall-2008/c902e6d99049d5ca
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: a concord cabin getaway
 uid: c902e6d9-9049-d5ca-12ff-86ede815ca30
 ---
 Example of student work for the mid-semester design presentation.
-

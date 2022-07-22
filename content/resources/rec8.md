@@ -7,6 +7,7 @@ file: /courses/4-500-introduction-to-design-computing-fall-2008/0928f80a86229fba
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: CNC Routing
 uid: 0928f80a-8622-9fba-03a8-bc364dc7c3ff
 ---
 Recitation notes on CNC routing, process overview, creating the cutting geometry, preparing the geometry for G-code generation, machine prep, and making the cut.
-

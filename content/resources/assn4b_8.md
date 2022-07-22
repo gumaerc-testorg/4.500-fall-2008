@@ -5,6 +5,7 @@ file: /courses/4-500-introduction-to-design-computing-fall-2008/7de1e900ad7a1358
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: A Concord River Cabin
 uid: 7de1e900-ad7a-1358-26d0-dbb4bb47e73a
 ---
 Example of student work for the mid-semester design presentation.
-

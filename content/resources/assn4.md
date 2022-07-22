@@ -5,6 +5,7 @@ file: /courses/4-500-introduction-to-design-computing-fall-2008/67ce9aecf9a9c2a2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Introduction to Computer Rendering
 uid: 67ce9aec-f9a9-c2a2-29f0-615bf501d020
 ---
 Assignment on computer rendering.
-

@@ -5,6 +5,7 @@ file: /courses/4-500-introduction-to-design-computing-fall-2008/37d03ea5156c2125
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lakeside Cabin
 uid: 37d03ea5-156c-2125-710e-54ad7bbfdc30
 ---
 Example of student work for the mid-semester design presentation.
-
