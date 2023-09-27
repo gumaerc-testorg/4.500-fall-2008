@@ -28,4 +28,3 @@ video_metadata:
   youtube_id: ''
 ---
 Assignment to design a plywood windscreen for a house.
-
