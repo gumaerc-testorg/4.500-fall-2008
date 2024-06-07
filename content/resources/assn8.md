@@ -3,6 +3,7 @@ content_type: resource
 description: Assignment to design a plywood windscreen for a house.
 draft: false
 file: /courses/4-500-introduction-to-design-computing-fall-2008/70a7c27aaec8a6a8825f22f337de3a6f_assn8.pdf
+file_size: 175540
 file_type: application/pdf
 image_metadata:
   caption: ''
