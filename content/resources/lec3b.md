@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation on computer modeling for design.
 file: /courses/4-500-introduction-to-design-computing-fall-2008/3c225a8926b17d6c31f41eaaa3d46f4f_lec3b.pdf
+file_size: 3813458
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

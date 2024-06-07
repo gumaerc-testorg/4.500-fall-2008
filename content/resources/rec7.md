@@ -2,6 +2,7 @@
 content_type: resource
 description: Recitation notes on laser cutting 3D models.
 file: /courses/4-500-introduction-to-design-computing-fall-2008/37fefad1a6c23e414d27d05796508053_rec7.pdf
+file_size: 281703
 file_type: application/pdf
 learning_resource_types:
 - Recitations

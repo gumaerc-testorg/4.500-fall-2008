@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment on design modeling and fabrication with 3D printing.
 file: /courses/4-500-introduction-to-design-computing-fall-2008/1284a316420fb21db191242126ac2681_assn5.pdf
+file_size: 367243
 file_type: application/pdf
 learning_resource_types:
 - Assignments
