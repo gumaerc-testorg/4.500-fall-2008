@@ -2,6 +2,7 @@
 content_type: resource
 description: Recitation notes on computer modeling.
 file: /courses/4-500-introduction-to-design-computing-fall-2008/cfa371d30a019edec78fda878aeff545_rec3.pdf
+file_size: 201001
 file_type: application/pdf
 learning_resource_types:
 - Recitations

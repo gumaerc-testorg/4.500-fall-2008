@@ -2,6 +2,7 @@
 content_type: resource
 description: Example of student work on a design proposal for the course project.
 file: /courses/4-500-introduction-to-design-computing-fall-2008/2ed2e0e0262ee983030ac2a9ea47fb83_assn1_5.pdf
+file_size: 399129
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -2,6 +2,7 @@
 content_type: resource
 description: Assignment to design a small writer's cabin.
 file: /courses/4-500-introduction-to-design-computing-fall-2008/c77226cd9f47b902c3e768ac2f5b0d23_assn1.pdf
+file_size: 383492
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: Example of student work for the final presentation of the course.
 file: /courses/4-500-introduction-to-design-computing-fall-2008/7e773997751b63a337c83d2c7606ed8a_final_7.pdf
+file_size: 505191
 file_type: application/pdf
 learning_resource_types:
 - Projects

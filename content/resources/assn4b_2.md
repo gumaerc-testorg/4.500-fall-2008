@@ -2,6 +2,7 @@
 content_type: resource
 description: Example of student work for the mid-semester design presentation.
 file: /courses/4-500-introduction-to-design-computing-fall-2008/f83039e8d6847705f5521d2512d26737_assn4b_2.pdf
+file_size: 497410
 file_type: application/pdf
 learning_resource_types:
 - Projects
