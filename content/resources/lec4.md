@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on computer rendering in architecture, why architects
   render, technical components in rendering, and illuminating a model.
-file: /courses/4-500-introduction-to-design-computing-fall-2008/38dba498df560afacf8ac593380b2d27_lec4.pdf
+file: /ol-ocw-studio-app/courses/4-500-introduction-to-design-computing-fall-2008/38dba498df560afacf8ac593380b2d27_lec4.pdf
 file_size: 5549667
 file_type: application/pdf
 learning_resource_types:

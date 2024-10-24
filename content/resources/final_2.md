@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of student work for the final presentation of the course.
-file: /courses/4-500-introduction-to-design-computing-fall-2008/16d7eb95daed2c8d1d76ef13820ea82d_final_2.pdf
+file: /ol-ocw-studio-app/courses/4-500-introduction-to-design-computing-fall-2008/16d7eb95daed2c8d1d76ef13820ea82d_final_2.pdf
 file_size: 2244828
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment on construction modeling.
-file: /courses/4-500-introduction-to-design-computing-fall-2008/39dfc669c15c5fb99e4d2a82dc3c14f4_assn6.pdf
+file: /ol-ocw-studio-app/courses/4-500-introduction-to-design-computing-fall-2008/39dfc669c15c5fb99e4d2a82dc3c14f4_assn6.pdf
 file_size: 147085
 file_type: application/pdf
 learning_resource_types:
