@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment on shape exploration with solid modeling.
-file: /courses/4-500-introduction-to-design-computing-fall-2008/26414c26e8faa8040bea5af07c404163_assn2.pdf
+file: /ol-ocw-studio-app/courses/4-500-introduction-to-design-computing-fall-2008/26414c26e8faa8040bea5af07c404163_assn2.pdf
 file_size: 112177
 file_type: application/pdf
 learning_resource_types:
