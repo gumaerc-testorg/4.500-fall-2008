@@ -3,7 +3,7 @@ content_type: resource
 description: Introductory lecture presentation on design computing, the architectural
   design process, computers in the field of architecture, CAD, and designing a cabin
   on the beach.
-file: /ol-ocw-studio-app/courses/4-500-introduction-to-design-computing-fall-2008/524c1321734fe3059c48583e24ad7011_lec1a.pdf
+file: /courses/4-500-introduction-to-design-computing-fall-2008/524c1321734fe3059c48583e24ad7011_lec1a.pdf
 file_size: 3328334
 file_type: application/pdf
 learning_resource_types:

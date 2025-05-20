@@ -2,7 +2,7 @@
 content_type: resource
 description: Recitation notes on using STELLAR, AutoCAD, coloring a drawing in Photoshop,
   and printing.
-file: /ol-ocw-studio-app/courses/4-500-introduction-to-design-computing-fall-2008/03ea6e402750e76c4c0f63c69fc2c87c_rec1.pdf
+file: /courses/4-500-introduction-to-design-computing-fall-2008/03ea6e402750e76c4c0f63c69fc2c87c_rec1.pdf
 file_size: 112061
 file_type: application/pdf
 learning_resource_types:

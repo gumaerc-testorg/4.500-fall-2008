@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation notes on computer modeling.
-file: /ol-ocw-studio-app/courses/4-500-introduction-to-design-computing-fall-2008/e6b9f6fbeadc777b0a957610af128f35_rec2.pdf
+file: /courses/4-500-introduction-to-design-computing-fall-2008/e6b9f6fbeadc777b0a957610af128f35_rec2.pdf
 file_size: 99820
 file_type: application/pdf
 learning_resource_types:

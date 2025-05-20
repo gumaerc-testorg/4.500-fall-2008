@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on the work of Andrea Palladio.
-file: /ol-ocw-studio-app/courses/4-500-introduction-to-design-computing-fall-2008/f8fce4ade32d11e39277af31be1ae64a_lec1b.pdf
+file: /courses/4-500-introduction-to-design-computing-fall-2008/f8fce4ade32d11e39277af31be1ae64a_lec1b.pdf
 file_size: 2251317
 file_type: application/pdf
 learning_resource_types:

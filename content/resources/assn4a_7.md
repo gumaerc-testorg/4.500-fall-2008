@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of student work for the mid-semester design presentation.
-file: /ol-ocw-studio-app/courses/4-500-introduction-to-design-computing-fall-2008/c6d5a6ade72f18181de7c6e06a73542f_assn4a_7.pdf
+file: /courses/4-500-introduction-to-design-computing-fall-2008/c6d5a6ade72f18181de7c6e06a73542f_assn4a_7.pdf
 file_size: 828809
 file_type: application/pdf
 learning_resource_types:
