@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on digitally manufactured housing, effective computing,
   machining that is computer controlled, and assembly only construction sites.
-file: /ol-ocw-studio-app/courses/4-500-introduction-to-design-computing-fall-2008/c64a0210b22a86cff391423296b8d428_lec7.pdf
+file: /courses/4-500-introduction-to-design-computing-fall-2008/c64a0210b22a86cff391423296b8d428_lec7.pdf
 file_size: 5570607
 file_type: application/pdf
 learning_resource_types:

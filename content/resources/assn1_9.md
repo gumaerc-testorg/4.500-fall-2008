@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of student work on a design proposal for the course project.
-file: /ol-ocw-studio-app/courses/4-500-introduction-to-design-computing-fall-2008/5fc7a17450918b731a50715aee50674a_assn1_9.pdf
+file: /courses/4-500-introduction-to-design-computing-fall-2008/5fc7a17450918b731a50715aee50674a_assn1_9.pdf
 file_size: 399129
 file_type: application/pdf
 learning_resource_types:

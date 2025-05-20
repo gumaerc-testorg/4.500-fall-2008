@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instruction for a project to design a writer's cabin.
-file: /ol-ocw-studio-app/courses/4-500-introduction-to-design-computing-fall-2008/aa0f294617524b3ad46cb70baf66f5a6_final_project.pdf
+file: /courses/4-500-introduction-to-design-computing-fall-2008/aa0f294617524b3ad46cb70baf66f5a6_final_project.pdf
 file_size: 304130
 file_type: application/pdf
 learning_resource_types:

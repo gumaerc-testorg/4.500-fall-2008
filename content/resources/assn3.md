@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment on modeling architectural detail and construction.
-file: /ol-ocw-studio-app/courses/4-500-introduction-to-design-computing-fall-2008/2bb2190cbc79393960f4f139d84a1ea5_assn3.pdf
+file: /courses/4-500-introduction-to-design-computing-fall-2008/2bb2190cbc79393960f4f139d84a1ea5_assn3.pdf
 file_size: 152585
 file_type: application/pdf
 learning_resource_types:
