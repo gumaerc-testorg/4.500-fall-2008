@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on advanced modeling, scientific research, theory,
   the impact of digital fabrication on design, and materialization.
-file: /courses/4-500-introduction-to-design-computing-fall-2008/11f39eba667550fb0c489fd63ebe0be9_lec3a.pdf
+file: /ol-ocw-studio-app/courses/4-500-introduction-to-design-computing-fall-2008/11f39eba667550fb0c489fd63ebe0be9_lec3a.pdf
 file_size: 4763573
 file_type: application/pdf
 learning_resource_types:
