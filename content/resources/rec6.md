@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Recitation notes with instructions on laser cutting.
-file: /courses/4-500-introduction-to-design-computing-fall-2008/ee7bb059fb7a19cb97eb63c51eb1725c_rec6.pdf
+file: /ol-ocw-studio-app/courses/4-500-introduction-to-design-computing-fall-2008/ee7bb059fb7a19cb97eb63c51eb1725c_rec6.pdf
 file_size: 82611
 file_type: application/pdf
 learning_resource_types:

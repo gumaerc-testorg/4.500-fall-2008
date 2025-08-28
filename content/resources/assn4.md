@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment on computer rendering.
-file: /courses/4-500-introduction-to-design-computing-fall-2008/67ce9aecf9a9c2a229f0615bf501d020_assn4.pdf
+file: /ol-ocw-studio-app/courses/4-500-introduction-to-design-computing-fall-2008/67ce9aecf9a9c2a229f0615bf501d020_assn4.pdf
 file_size: 165414
 file_type: application/pdf
 learning_resource_types:
